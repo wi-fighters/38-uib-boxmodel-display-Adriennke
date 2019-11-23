@@ -1,0 +1,23 @@
+.fixme1 {
+    display: grid;
+}
+
+
+.one,
+.two,
+.tri {
+    display: inline-flex;
+}
+
+.fixme3 {
+    background-color: yellow;
+    color: rgb(32, 32, 131);
+    text-align: center;
+}
+
+.fixme3 li {
+    display: inline-block;
+    font-size: 30px;
+    padding: 30px;
+
+}
